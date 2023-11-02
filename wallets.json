@@ -13,6 +13,7 @@
     ],
     "platforms": ["ios", "android", "macos", "windows", "linux"]
   },
+  
   {
     "app_name": "tonkeeper",
     "name": "Tonkeeper",
